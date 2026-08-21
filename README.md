@@ -1,2 +1,2 @@
 # Roadmap.sh.projects
-Roadmap.sh projects I've completed 
+Roadmap.sh projects I've completed on my own 
